@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Introducing Savodaya e-vote: As a fresher I've initiated Savodaya e-vote with the aim of to provide a transparent, accessible, and efficient platform for eligible individuals to cast their votes, fostering active participation and democratic decision-making within a community or organization. The website also offers real-time monitoring and analytics for administrators to ensure the integrity of the electoral process.
+=======
+# online-Votting-System
+
+Introducing Savodaya e-vote: As a fresher I've initiated online-Votting-System with the aim of to provide a transparent, accessible, and efficient platform for eligible individuals to cast their votes, fostering active participation and democratic decision-making within a community or organization. The website also offers real-time monitoring and analytics for administrators to ensure the integrity of the electoral process.
+>>>>>>> 859fb9335dcc1001e1d058567be947e483ccea0c
 
 Project Description:
 
@@ -20,7 +26,11 @@ Backend: core java
 
 Database: My Sql
 
+<<<<<<< HEAD
 🌱 Why Savodaya E-vote?- This project is more than just a collection of code or ideas; it's a testament to my commitment to continuous learning and growth .
+=======
+🌱 Why online-Votting-System?- This project is more than just a collection of code or ideas; it's a testament to my commitment to continuous learning and growth .
+>>>>>>> 859fb9335dcc1001e1d058567be947e483ccea0c
 
 How to Contribute 🤝 We welcome contributions from the open-source community! If you have ideas for improvements, bug fixes, or new features, please feel free to submit a pull request. Check out our contributing guidelines for more information.
 
